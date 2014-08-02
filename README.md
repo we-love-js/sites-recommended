@@ -9,6 +9,9 @@
 - [you might not need jQuery](http://youmightnotneedjquery.com/)
 - [js the right way](http://www.jstherightway.org/)
 
+## online books
+- [eloquent javascript](http://eloquentjavascript.net/)
+
 ## JS订阅
 - [javascript weekly](http://javascriptweekly.com/issues):没有更好的订阅了！
 
