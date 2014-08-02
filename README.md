@@ -13,7 +13,7 @@
 - [eloquent javascript](http://eloquentjavascript.net/)
 
 ## JS订阅
-- [javascript weekly](http://javascriptweekly.com/issues):没有更好的订阅了！
-
+- [javascript weekly](http://javascriptweekly.com/)
+- [a drip of js](http://designpepper.com/a-drip-of-javascript/)
 ## angular
 - [ng nice(中文)](http://www.ngnice.com/)
