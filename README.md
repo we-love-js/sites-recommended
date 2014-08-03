@@ -8,6 +8,7 @@
 - [reddit](http://www.reddit.com/r/javascript/)
 - [you might not need jQuery](http://youmightnotneedjquery.com/)
 - [js the right way](http://www.jstherightway.org/)
+- [javascript web blog](http://javascriptweblog.wordpress.com/)
 
 ## online books
 - [eloquent javascript](http://eloquentjavascript.net/)
